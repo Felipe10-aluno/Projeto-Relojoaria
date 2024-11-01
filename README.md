@@ -12,5 +12,4 @@
 ## Contato
 
 Desenvolvido por **Sarah Gabriela Lemos, Isaque Klehm, Felipe de Lima e Gabriel Casagrande**.  
-Email: srlemos16@gmail.com
-LinkedIn: https://www.linkedin.com/in/sarah-gabriela-lemos-289251236/
+Email: felipe_lima-pereira@estudante.sesisenai.org.br
